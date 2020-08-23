@@ -1,1 +1,1 @@
-mvn install -Doutput=output.out
+mvn clean install --log-file output.txt  
