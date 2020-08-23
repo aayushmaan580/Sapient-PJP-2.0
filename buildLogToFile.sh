@@ -1,0 +1,1 @@
+mvn install -Doutput=output.out
